@@ -24,3 +24,14 @@ h2 {
     font-size: 110%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.imagem-1 {
+    justify-content: left;
+    width: 500px;
+    margin: 10% auto;
+}
+
+.imagem-2 {
+    width:200px;
+    height: 100;
+}
