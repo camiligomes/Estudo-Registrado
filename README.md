@@ -1,5 +1,4 @@
 # Estudo-Registrado
-Neste Repositorio irei começar uma jornada de estudos do qual devo iniciar pelo básico, até onde eu estudar, não espero ou almejo o fim desse repositorio, visto que o Estudo sobre programação não tem fim.
 
 
 ![ camiligomes GitHub stats](https://github-readme-stats.vercel.app/api?username=camiligomes&show_icons=true&theme=radical)
