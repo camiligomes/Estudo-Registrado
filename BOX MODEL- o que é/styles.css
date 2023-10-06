@@ -2,14 +2,11 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: rgb(190, 119, 223);
-}
  /*pagina exemplo*/
 .box {
     width: 400px;
     height: 400px;
-    border: dotted 5px rgb(0, 0, 0.7);
+    border: dotted 8px rgb(0, 0, 0.7);
     margin: 10% auto;
     padding: 20%;
     /*Se quiser padding (borda/margin interna) so no topo: padding-top*/
@@ -34,12 +31,14 @@ h2 {
 
     width: 500px;
     margin: 10% auto;
+
 }
 
 .imagem-2 {
-    width:200px;
-    height: 100;
-   align-items: end;
+    width: 500px;
+    margin: 0% auto;
+    text-align: center;
+   
 }
 
 .topico-1{
@@ -47,7 +46,9 @@ h2 {
 }
 
 .topico-2 {
-    font-family: Arial, Helvetica, sans-serif;
-    align-items: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
+   
    
 }
